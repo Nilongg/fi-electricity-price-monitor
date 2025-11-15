@@ -15,7 +15,7 @@ No external dependencies required
 
 This project is intended to be served with any web server that supports PHP.
 
-## Example setups ⚙️:
+### Example setups ⚙️:
 
 Apache (recommended, used during development)
 

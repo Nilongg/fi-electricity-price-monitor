@@ -7,20 +7,20 @@ https://dashboard.elering.ee/et
 
 ## Tech Stack 🤖
 
-PHP (compatible with older versions)
+- PHP (compatible with older versions)
 
-No external dependencies required
+- No external dependencies required
 
 ## How to Run 🏃
 
-This project is intended to be served with any web server that supports PHP.
+- This project is intended to be served with any web server that supports PHP.
 
 ### Example setups ⚙️:
 
-Apache (recommended, used during development)
+- Apache (recommended, used during development)
 
-Nginx + PHP-FPM
+- Nginx + PHP-FPM
 
-Built-in PHP server (for quick testing):
+- Built-in PHP server (for quick testing):
 
-php -S localhost:8000
+- php -S localhost:8000
